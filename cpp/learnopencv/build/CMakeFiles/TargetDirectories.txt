@@ -1,7 +1,0 @@
-/home/zhou/gitlearning/cpp/learnopencv/build/CMakeFiles/install/strip.dir
-/home/zhou/gitlearning/cpp/learnopencv/build/CMakeFiles/edit_cache.dir
-/home/zhou/gitlearning/cpp/learnopencv/build/CMakeFiles/rebuild_cache.dir
-/home/zhou/gitlearning/cpp/learnopencv/build/CMakeFiles/list_install_components.dir
-/home/zhou/gitlearning/cpp/learnopencv/build/CMakeFiles/install/local.dir
-/home/zhou/gitlearning/cpp/learnopencv/build/CMakeFiles/learnopencv.dir
-/home/zhou/gitlearning/cpp/learnopencv/build/CMakeFiles/install.dir
