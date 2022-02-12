@@ -104,7 +104,7 @@ venv.bak/
 
 
 #kdev4 project
-.kdev4
+*.kdev4
 
 # Rope project settings
 .ropeproject
